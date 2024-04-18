@@ -1,0 +1,1 @@
+// Compile all endpoitns from /endpoints to this file to simplify the server.ts file
